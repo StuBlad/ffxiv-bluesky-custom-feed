@@ -34,4 +34,7 @@ If you would like to be added to this list then [e-mail me](mailto:stuart@renopr
 * [XIV Question of the Day](https://bsky.app/profile/did:plc:4yr2a4bhxomer7mzpenxf53r/feed/aaaln72hmxura) by [Haurchefant](https://bsky.app/profile/hersheyfont.bsky.social) - FFXIV WoL Question of the Day feed! To be included, put 'wolqotd' anywhere in your post. (sidenote, QRTs do not show up on original posts but do show up in the OP's notifications.)
 * [Final Fantasy General](https://bsky.app/profile/did:plc:ie5avn76oe43lsvokl523ydd/feed/aaai3xpxzyz56) by [unaspi](https://bsky.app/profile/unaspi.bsky.social) - Welcome to the general Final Fantasy feed! This feed will (hopefully!) pick up any post talking about Final Fantasy games, as long as the title or a word unique to the series is used. Unique words currently include "chocobo" "moogle" and "theatrhythm" but I'm open to suggestions!
 
+## I have a question that hasn't been answered here. Can I contact you?
+Sure thing. You can post and tag me directly on BlueSky if you like. My username is [stublad@renoproject.org](https://bsky.app/profile/stublad.renoproject.org). You can also [email me](mailto:stuart@renoproject.org).
+
 
