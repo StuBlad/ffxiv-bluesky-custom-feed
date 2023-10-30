@@ -7,7 +7,7 @@ Welcome to the place for all things FFXIV on BlueSky! If you're here, you likely
 A custom feed on BlueSky will aggregate a bunch of posts together into one easy to read timeline based on whatever the author of the feed desires. In this case, I have gathered together a bunch of searchable words and phrases related to Final Fantasy XIV so you can catch up on all your favourite content in one place.
 
 ## What search terms does this particular feed pick up and display?
-All of the current search terms that are aggregated and displayed in the feed are viewable here: https://pastebin.com/GK1xBFCP
+All of the current search terms that are aggregated and displayed in the feed are viewable here: [https://pastebin.com/GK1xBFCP](https://pastebin.com/GK1xBFCP)
 
 ## Are there any rules for this feed?
 Not really. I love that this is a general feed for all things Final Fantasy XIV, however as a rule of thumb, if something is posted that would be reportable behavior in general on BlueSky, please let me know and that user can be removed from having their posts display in the feed. Generally speaking this would be things such as homophobia, transphobia, abuse, harassment and so on.
