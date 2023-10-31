@@ -1,5 +1,3 @@
-# Final Fantasy XIV BlueSky Custom Feed page
-
 ## Welcome
 Welcome to the place for all things FFXIV on BlueSky! If you're here, you likely saw the link to this site at the very top of the custom feed. Here's some Q&A stuff that might be useful.
 
