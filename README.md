@@ -5,23 +5,25 @@ Welcome to the place for all things FFXIV on BlueSky! If you're here, you likely
 A custom feed on BlueSky will aggregate a bunch of posts together into one easy to read timeline based on whatever the author of the feed desires. In this case, I have gathered together a bunch of searchable words and phrases related to Final Fantasy XIV so you can catch up on all your favourite content in one place.
 
 ## What search terms does this particular feed pick up and display?
-All of the current search terms that are aggregated and displayed in the feed are viewable here: [https://pastebin.com/GK1xBFCP](https://pastebin.com/GK1xBFCP)
+~~All of the current search terms that are aggregated and displayed in the feed are viewable here: [https://pastebin.com/GK1xBFCP](https://pastebin.com/GK1xBFCP)~~ A new list of search terms is coming soon, but please be assured that all variations of Final Fantasy XIV, FFXIV and others are accounted for, as are starter cities and races, as well as expansions.
 
 ## Are there any rules for this feed?
 Not really. I love that this is a general feed for all things Final Fantasy XIV, however as a rule of thumb, if something is posted that would be reportable behavior in general on BlueSky, please let me know and that user can be removed from having their posts display in the feed. Generally speaking this would be things such as homophobia, transphobia, abuse, harassment and so on.
 
 Also, I strongly encourage you to report those posts via the BlueSky reporting tools as they can take site wide action.
 
-In the future, I am considering filtering out the NSFW content of the feed just to keep it more SFW friendly. There is an [XIV After Dark](https://bsky.app/profile/did:plc:ir4xyboxl2yer3nhq5cgcj32/feed/aaalms5q4svei) feed run by [Lune](https://bsky.app/profile/afterdark.lune.monster) which is a great place for that kind of thing. If I do filter NSFW content out, it'll be posted about here.
+~~In the future, I am considering filtering out the NSFW content of the feed just to keep it more SFW friendly.~~ I have filtered out nsfw posts out of the feed, so please head over to the [XIV After Dark](https://bsky.app/profile/did:plc:ir4xyboxl2yer3nhq5cgcj32/feed/aaalms5q4svei) feed run by [Lune](https://bsky.app/profile/afterdark.lune.monster) which is a great place for that kind of thing.
 
 ## What software do you use to generate this feed
-The excellent [Contrails](https://github.com/jcsalterego/Contrails/) by [Jerry Chen](https://github.com/jcsalterego/). Contrails is an ATProto Feed Generator backed by Cloudflare Workers and Bluesky Search.
+Currently, we use the excellent [SkyFeed](https://skyfeed.app/) by [redsolver](https://bsky.app/profile/did:plc:odo2zkpujsgcxtz7ph24djkj) with a bit of help from [Awerlu](https://bsky.app/profile/awerlu.bsky.social) who helped me to migrate the feed from Contrails to SkyFeed.
+
+We formally used the excellent [Contrails](https://github.com/jcsalterego/Contrails/) by [Jerry Chen](https://github.com/jcsalterego/). Contrails is an ATProto Feed Generator backed by Cloudflare Workers and Bluesky Search.
 
 ## Some search terms from the list don't seem to be showing up in the feed when I add them to my post. What's happening?
-Currently, Contrails will let you make a list of search terms with unlimited terms, but Cloudflares free usage plan will only allow so many of those to be picked up. If the feed were to switch to a paid plan, it's likely more of the terms would be picked up. Unfortunately, switching to a paid plan isn't financially feasible for me right now but if there were interest and funds could be raised, it could happen.
+Please get in touch with me. It's possible we can fix this for you and get the search term to show up in the feed.
 
 ## Will you add a search term to the feed for me?
-Please read the previous section about search terms. Until a solution is able to be figured out to either switch to a paid Cloudflare plan or switch to another feed generator hosted elsewhere, only a certain amount of existing search terms will be shown. This would mean that even if your requested search term was added, it wouldn't show up. I'd be happy to though otherwise.
+I'd be happy to, as long as SkyFeed will allow me to add more search terms :)
 
 ## Can you recommend any other Final Fantasy XIV related custom feeds on BlueSky?
 Of course!
